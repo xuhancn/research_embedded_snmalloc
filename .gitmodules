@@ -1,0 +1,3 @@
+[submodule "third_party/snmalloc"]
+	path = third_party/snmalloc
+	url = https://github.com/microsoft/snmalloc.git
